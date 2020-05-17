@@ -97,14 +97,19 @@ nav a{
     color: white;
 }
 
-.actions a {
+.actions button {
     margin: 10px;
     padding: 7px;
-    width: 60px;
-    border: 1px solid #3c3e44;
-    text-decoration: none;
-    text-align: center;
-    cursor: pointer;
+    width: 70px;
+    color: white;
+    background: transparent;
+    border: 2px solid #3c3e44;
+    border-radius: 6px;
+    outline: none;
+}
+
+.actions button:hover {
+    background-color: #3c3e44;
 }
 
 footer {
