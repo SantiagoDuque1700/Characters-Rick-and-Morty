@@ -129,4 +129,12 @@ footer {
     .hero h1 {
         font-size: 40px;
     }
+
+    .characters-cart .characters-img {
+        width: 50%;
+    }
+
+    .characters-cart .character-info {
+        width: 50%;
+    }
 }
